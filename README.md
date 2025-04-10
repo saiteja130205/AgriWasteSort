@@ -9,3 +9,4 @@ iii) Used ImageDataGenerator for image preprocessing, normalization, and batch g
 
 iv) Integrated OpenCV for real-time prediction via webcam and image overlays, displaying classification and confidence scores on captured frames.
 
+v) Can be implemented in PyCharm IDE and the dataset used for this classification was Waste Classification Dataset (22,500 images) from Kaggle.
